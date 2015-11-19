@@ -3,7 +3,7 @@
 **1. Label**
 * Used to input the label of this form field.
 * Shown as an input field in the property panel.
-* Default Value: Untitled Checkbox List.
+* Default Value: Untitled Slider.
 
 **2. Selected Value**
 * The value that is captured by this form element, after the user has used it during form submission.
