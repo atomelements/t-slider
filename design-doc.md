@@ -7,7 +7,7 @@
 
 **2. Selected Value**
 * The value that is captured by this form element, after the user has used it during form submission.
-* Shown as a list in the property panel.
+* Shown as a text string in the property panel.
 * Default Value:(Blank).
 
 **3. Min Value**
